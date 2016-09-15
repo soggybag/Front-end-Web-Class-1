@@ -13,6 +13,7 @@ San Francisco, CA 94103
 
 Looks good, and you understand this but, how about this:
 
+```
 <header>
   <h1>Makeschool</h1>
   <address>
@@ -21,9 +22,11 @@ Looks good, and you understand this but, how about this:
     San Francisco, CA 94103
   </address>
 </header>
+```
 
 Actually it might look more like this: 
 
+```
 <header>
   <h1>Makeschool</h1>
   <img src="logo.gif">
@@ -34,6 +37,7 @@ Actually it might look more like this:
       <li>San Francisco, CA 94103<br></li>
   </address>
 </header>
+```
 
 ### Tags and syntax
 
@@ -46,16 +50,20 @@ Tags can be nested but can not overlap! For example:
 
 Good!
 
+```
 <header>
   <h1>Title</h1>
 </header>
+```
 
 Bad!
 
+```
 <header>
   <h1>Title
 </header> <-- Closes before h1!
 </h1> 
+```
 
 Exercise: Mark up the content provided. Use the list of tags here. Find the most appropriate tag for each content element. 
 
