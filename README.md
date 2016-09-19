@@ -19,12 +19,12 @@ Students will:
 | 1  | 5 min  |TT     | Intro, HTML, CSS, and JS |
 | 2  | 10 min | Quiz  | Diagnostic Quiz |
 | 3  | 10 min | Pair  | Pair up and research each question you missed |
-| 4  | 5 min  | TT    | Quick intro to basic HTML syntax, tags, and boilerplate markup |
+| 4  | 5 min  | I do, we do    | Quick intro to basic HTML syntax, tags, and boilerplate markup |
 | 5  | 15 min | Pair  | With a partner research the tag list and markup the example |
 | 6  | 10 min | Group | Discuss what tags you found that were applicable to the example |
 | 7  | 10 min | break |  |
 | 8  | 5 min  | TT    | Domains and Hosting |
-| 9  | 20 min |I, Do, we Do | Semantic HTML the concept |
+| 9  | 20 min |I do, we do | Semantic HTML the concept |
 | 10 | 20 min | Solo  | Make a web page |
 
 
@@ -36,12 +36,14 @@ Students will:
 3 - Pair lookup quiz questions you missed 
 
 4 - HTML Syntax and boilerplate code. 
-Case doesn’t matter, you should always use lowercase and - 
-Tags 
-Opening and closing
-Some tags don’t close
-No overlapping tags!
-Attributes, values always quoted
+- Case doesn’t matter, you should always use lowercase and - 
+- Tags 
+  - Opening and closing
+  - Some tags don’t close
+  - No overlapping tags!
+- Attributes, values always quoted
+
+[Markup example 1](example-1.html)
 
 5 - Pair up with a partner look at the tag list here: http://htmldog.com/references/html/tags/
 Markup the example text using the tags that you think are most appropriate. 
