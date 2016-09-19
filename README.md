@@ -54,9 +54,21 @@ Markup the example text using the tags that you think are most appropriate.
 
 ### 6 - Discussion
 
+Discuss tags you found in the list and how you think they could be used. What does HTML markup add to a document?
+
 ### 7 - Break 
 
 ### 8 - Domains and hosting
+
+Domain name hosting: 
+
+- https://domains.google
+- https://www.godaddy.com
+
+Web hosting: 
+
+- https://www.siteground.com/web-hosting.htm
+- https://www.bluehost.com
 
 ### 9 - Semantic HTML
 
