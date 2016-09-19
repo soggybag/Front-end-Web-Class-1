@@ -86,6 +86,8 @@ Markup the example using boilerplate and sectional tags. Students follow up by d
 We will continue to work on and add features to the pages you create. As of today the page will provide little design, 
 you will be adding more as class progresses.  Choose one of the following:
 
+- Markup this example
+  - Here is another example, study the tag list and apply as many tags as you can. [Example 3](example-3.html)
 - Make a web page for the app you created at Summer Academy
   - 
 - Make a web page for yourself. 
