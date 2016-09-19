@@ -87,5 +87,10 @@ We will continue to work on and add features to the pages you create. As of toda
 you will be adding more as class progresses.  Choose one of the following:
 
 - Make a web page for the app you created at Summer Academy
+  - 
 - Make a web page for yourself. 
-- Markup Sample document 
+- Markup Stranger Things [Example 5](example-5.html)
+  - Markup this portion of the screenplay for the TV series "Stranger Things". The challenge here is HTML doesn't provide
+  tags specifically designed for screenplays. In this case you want to use your judgement and choose tags that make sense.
+  You can also use generic tags like div and span assigning class names to add context. For example you can create class
+  names like: screen-direction, and audio-cues. 
