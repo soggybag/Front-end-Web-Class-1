@@ -97,3 +97,7 @@ you will be adding more as class progresses.  Choose one of the following:
   tags specifically designed for screenplays. In this case you want to use your judgement and choose tags that make sense.
   You can also use generic tags like div and span assigning class names to add context. For example you can create class
   names like: screen-direction, and audio-cues. 
+
+## Projects and Callenges
+
+
