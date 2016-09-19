@@ -100,4 +100,11 @@ you will be adding more as class progresses.  Choose one of the following:
 
 ## Projects and Callenges
 
+- Register a Domain Name
+- Acquire a web host plan
+- Set the domain name server for your web host
+- Upload one or more of your project pages to your web host
+- Plan your personal web page
+- Write an outline and description of your web site
+- Draw a flowchart describing how the content will connect
 
