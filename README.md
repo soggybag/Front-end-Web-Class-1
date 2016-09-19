@@ -87,10 +87,11 @@ We will continue to work on and add features to the pages you create. As of toda
 you will be adding more as class progresses.  Choose one of the following:
 
 - Markup this example
-  - Here is another example, study the tag list and apply as many tags as you can. [Example 3](example-3.html)
+  - Here is another example, study the tag list and apply as many tags as you can. [Example 4](example-4.html)
 - Make a web page for the app you created at Summer Academy
-  - 
+  - Here is an example of an app I created [Example 3](example-3.html)
 - Make a web page for yourself. 
+  - Imagine making a web site for yourself to host links to your work. 
 - Markup Stranger Things [Example 5](example-5.html)
   - Markup this portion of the screenplay for the TV series "Stranger Things". The challenge here is HTML doesn't provide
   tags specifically designed for screenplays. In this case you want to use your judgement and choose tags that make sense.
