@@ -35,7 +35,8 @@ Students will:
 
 ### 4 - HTML Syntax and boilerplate code. 
 
-- Case doesn’t matter, you should always use lowercase and - 
+- Case doesn’t matter, you should always use lowercase and 
+- Boilerplate HTML: [index.html](index.html)
 - Tags 
   - Opening and closing
   - Some tags don’t close
