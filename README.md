@@ -30,7 +30,7 @@ Students will:
 
 1 - Intro HTML, CSS, JS
 
-2 - Quiz [https://b.socrative.com/login/student/](https://b.socrative.com/login/student/) room: 
+2 - Quiz [https://b.socrative.com/login/student/](https://b.socrative.com/login/student/) room: L8RR2UUP3
 
 
 3 - Pair lookup quiz questions you missed 
@@ -43,9 +43,12 @@ Students will:
   - No overlapping tags!
 - Attributes, values always quoted
 
-[Markup example 1](example-1.html)
+I markup markup: [example 1](example-1.html)
 
-5 - Pair up with a partner look at the tag list here: http://htmldog.com/references/html/tags/
+We markup: [example 2](example-2.html)
+
+5 - Pair up with a partner look at the tag list here:
+[http://htmldog.com/references/html/tags/](http://htmldog.com/references/html/tags/)
 Markup the example text using the tags that you think are most appropriate. 
 
 6 - Discussion
