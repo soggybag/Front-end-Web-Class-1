@@ -76,7 +76,7 @@ Tags add context and meaning to content on the page. The golden rule is always c
 element best, while understanding that sometimes there will be more than one, and often it will be a best judgement
 situation. 
 
-What about tags like: <sarcasm>, <humor>. When we talk about CSS you will find that CSS provides aural styles. Imagine 
+What about tags like: `<sarcasm>`, `<humor>`. When we talk about CSS you will find that CSS provides aural styles. Imagine 
 now that the computer can understand and express sarcasm. Whoa, that’s powerful.
 
 Markup the example using boilerplate and sectional tags. Students follow up by directing the markup of the next document. 
