@@ -12,8 +12,6 @@ Students will:
 - Envision the function of each HTML, CSS, and JS
 - Investigate and identify HTML tags 
 
-
-
 |    | Time   | Type  | Description |
 |----|--------|-------|-------------|
 | 1  | 5 min  |TT     | Intro, HTML, CSS, and JS |
@@ -27,15 +25,16 @@ Students will:
 | 9  | 20 min |I do, we do | Semantic HTML the concept |
 | 10 | 20 min | Solo  | Make a web page |
 
+### 1 - Intro HTML, CSS, JS
 
-1 - Intro HTML, CSS, JS
+### 2 - Quiz 
 
-2 - Quiz [https://b.socrative.com/login/student/](https://b.socrative.com/login/student/) room: L8RR2UUP3
+[https://b.socrative.com/login/student/](https://b.socrative.com/login/student/) room: L8RR2UUP3
 
+### 3 - Pair lookup quiz questions you missed 
 
-3 - Pair lookup quiz questions you missed 
+### 4 - HTML Syntax and boilerplate code. 
 
-4 - HTML Syntax and boilerplate code. 
 - Case doesn’t matter, you should always use lowercase and - 
 - Tags 
   - Opening and closing
@@ -47,27 +46,37 @@ I markup markup: [example 1](example-1.html)
 
 We markup: [example 2](example-2.html)
 
-5 - Pair up with a partner look at the tag list here:
+### 5 - Pair up 
+
+With a partner look at the tag list here:
 [http://htmldog.com/references/html/tags/](http://htmldog.com/references/html/tags/)
 Markup the example text using the tags that you think are most appropriate. 
 
-6 - Discussion
+### 6 - Discussion
 
-7 - Break 
+### 7 - Break 
 
-8 - Domains and hosting
+### 8 - Domains and hosting
 
-9 - Semantic HTML concept. Tags add context and meaning to content on the page. The golden rule is always choose the tag that describes the element best, while understanding that sometimes there will be more than one, and often it will be a best judgement situation. 
+### 9 - Semantic HTML
 
-What about tags like: <sarcasm>, <humor>. When we talk about CSS you will find that CSS provides aural styles. Imagine now that the computer can understand and express sarcasm. Whoa, that’s powerful.
+Tags add context and meaning to content on the page. The golden rule is always choose the tag that describes the 
+element best, while understanding that sometimes there will be more than one, and often it will be a best judgement
+situation. 
+
+What about tags like: <sarcasm>, <humor>. When we talk about CSS you will find that CSS provides aural styles. Imagine 
+now that the computer can understand and express sarcasm. Whoa, that’s powerful.
 
 Markup the example using boilerplate and sectional tags. Students follow up by directing the markup of the next document. 
 
-10 - Make a web page. We will continue to work on and add features to the pages you create. As of today the page will provide little design, you will be adding more as class progresses.  Choose one of the following:
+### 10 - Make a web page
 
-Make a web page for the app you created at Summer Academy
-Make a web page for yourself. 
-Markup Sample document 
+We will continue to work on and add features to the pages you create. As of today the page will provide little design, 
+you will be adding more as class progresses.  Choose one of the following:
+
+- Make a web page for the app you created at Summer Academy
+- Make a web page for yourself. 
+- Markup Sample document 
 
 
 
