@@ -30,7 +30,7 @@ Students will:
 
 1 - Intro HTML, CSS, JS
 
-2 - Quiz https://b.socrative.com/login/student/ room: 
+2 - Quiz [https://b.socrative.com/login/student/](https://b.socrative.com/login/student/) room: 
 
 
 3 - Pair lookup quiz questions you missed 
