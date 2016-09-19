@@ -15,6 +15,7 @@ Students will:
 
 
 |    | Time   | Type  | Description |
+|----|--------|-------|-------------|
 | 1  | 5 min  |TT     | Intro, HTML, CSS, and JS |
 | 2  | 10 min | Quiz  | Diagnostic Quiz |
 | 3  | 10 min | Pair  | Pair up and research each question you missed |
