@@ -95,23 +95,7 @@ Markup Sample document
 
 
 
-# Front-end-Web-Class-1
 
-## What is HTML?
-
-HTML is Hyper Text Markup language. Markup languages are used to describe, or markup, information. Imagine this: 
-
-> Makeschool 
->
-> Email
->
-> hello@makeschool.com
->
-> Address
->
-> 1547 Mission Street 
->
-> San Francisco, CA 94103
 
 Looks good, and you understand this but, how about this:
 
