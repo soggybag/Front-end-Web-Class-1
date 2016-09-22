@@ -85,7 +85,7 @@ Markup the example using boilerplate and sectional tags. Students follow up by d
 ### 10 - Make a web page
 
 We will continue to work on and add features to the pages you create. As of today the page will provide little design, 
-you will be adding more as class progresses.  Choose one of the following:
+you will be adding more as class progresses. Be sure to complete at least one of the following:
 
 - Markup this example
   - Here is another example, study the tag list and apply as many tags as you can. [Example 4](example-4.html)
@@ -99,13 +99,33 @@ you will be adding more as class progresses.  Choose one of the following:
   You can also use generic tags like div and span assigning class names to add context. For example you can create class
   names like: screen-direction, and audio-cues. 
 
-## Projects and Callenges
+## Projects and Challenges 
+These projects and challenges generate simple marked up content, web pages. Do not worry about the appearance we will cover that in the next class. You must have some web pages to continue with the CSS examples next week. 
 
-- Register a Domain Name
-- Acquire a web host plan
-- Set the domain name server for your web host
-- Upload one or more of your project pages to your web host
-- Plan your personal web page
-- Write an outline and description of your web site
-- Draw a flowchart describing how the content will connect
+You can choose to work on as many or as few of these projects as you like. Be sure to complete the plan for your personal web site, and one of the HTML markup challenges. 
+
+You do not need a web host or a domain if you don’t plan on posting your work to the web. If you want your work available on the web to share with the work you will need these. 
+
+- Make a web page for an app you created
+  - Start with a rough sketch of your web page
+  - Write the content as text
+  - Add markup (ignore styles for now)
+- Build a website based on your product domain
+  - Start with a rough sketch of your page
+  - Write content and collect assets
+  - Plan your personal web page
+  - Write an outline and description of your web site
+  - Draw a flowchart describing how the content will connect
+  - Draw some rough sketches that describe the site
+- Challenge: Register a Domain Name
+  - Acquire a web host plan
+  - Set the domain name server for your web host
+  - Upload one or more of your project pages to your web host
+- Challenge: Create a design for your web site
+  - This could be tough if you are not familiar with any design tools. 
+  - Read about designing web sites here: http://www.creativebloq.com/web-design/steps-perfect-website-layout-812625
+
+## Resources 
+- [https://dash.generalassemb.ly/](https://dash.generalassemb.ly/)
+- [https://www.codecademy.com/learn/web](https://www.codecademy.com/learn/web)
 
