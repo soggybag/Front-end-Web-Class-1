@@ -36,14 +36,18 @@ Students will:
 ### 4 - HTML Syntax and boilerplate code. 
 
 - Case doesn’t matter, you should always use lowercase and 
-- Boilerplate HTML: [index.html](index.html)
+- The DOM
+  - Children/Child
+  - Descendants/Ancestor
+  - Parent
 - Tags 
   - Opening and closing
   - Some tags don’t close
   - No overlapping tags!
+- Boilerplate HTML: [index.html](index.html)
 - Attributes, values always quoted
 
-I markup markup: [example 1](example-1.html)
+Markup markup: [example 1](example-1.html)
 
 We markup: [example 2](example-2.html)
 
