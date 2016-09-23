@@ -55,7 +55,7 @@ We markup: [example 2](example-2.html)
 
 With a partner look at the tag list here:
 [http://htmldog.com/references/html/tags/](http://htmldog.com/references/html/tags/)
-Markup the example text using the tags that you think are most appropriate. 
+Markup the [example-4](example-4.html) text using the tags that you think are most appropriate. 
 
 ### 6 - Discussion
 
