@@ -104,23 +104,29 @@ you will be adding more as class progresses. Be sure to complete at least one of
   names like: screen-direction, and audio-cues. 
 
 ## Projects and Challenges 
-These projects and challenges generate simple marked up content, web pages. Do not worry about the appearance we will cover that in the next class. You must have some web pages to continue with the CSS examples next week. 
+These projects and challenges generate simple marked up content. Do not worry about the appearance we will cover
+that in the next class. You must have some web pages to continue with the CSS examples next week. 
 
-You can choose to work on as many or as few of these projects as you like. Be sure to complete the plan for your personal web site, and one of the HTML markup challenges. 
+You can choose to work on as many or as few of these projects as you like. Be sure to complete the plan for your personal web
+site, and one of the HTML markup challenges. 
 
-You do not need a web host or a domain if you don’t plan on posting your work to the web. If you want your work available on the web to share with the work you will need these. 
+You do not need a web host or a domain if you don’t plan on posting your work to the web. If you want your work available on
+the web to share, you will need a host and a domain name. 
 
 - Make a web page for an app you created
   - Start with a rough sketch of your web page
   - Write the content as text
   - Add markup (ignore styles for now)
-- Build a website based on your product domain
-  - Start with a rough sketch of your page
-  - Write content and collect assets
-  - Plan your personal web page
-  - Write an outline and description of your web site
-  - Draw a flowchart describing how the content will connect
+- Plan your personal web portfolio
   - Draw some rough sketches that describe the site
+  - Write an outline and description of your web site
+  - Write some content that will mock up one or more pages of the site
+  - Markup your mock up pages
+  - Draw a flowchart describing how the content will connect
+- Build a website related to your product domain
+  - Start with some rough sketches of the site you envision building
+  - Write content and collect assets
+  - Markup your content
 - Challenge: Register a Domain Name
   - Acquire a web host plan
   - Set the domain name server for your web host
