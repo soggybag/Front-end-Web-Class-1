@@ -78,21 +78,28 @@ Web hosting:
 ### 9 - Semantic HTML
 
 Tags add context and meaning to content on the page. The golden rule is always choose the tag that describes the 
-element best, while understanding that sometimes there will be more than one, and often it will be a best judgement
-situation. 
+content best. Understand that sometimes there will be more than one tag, or no tags at all that seem to fit. In these
+situations use your best judgement. 
 
 What about tags like: `<sarcasm>`, `<humor>`. When we talk about CSS you will find that CSS provides aural styles. Imagine 
 now that the computer can understand and express sarcasm. Whoa, that’s powerful.
 
-Markup the example using boilerplate and sectional tags. Students follow up by directing the markup of the next document. 
+More subtly tags like: `<b>` and `<strong>`, `<i>` and `<em>` seem to be doing the same but, from a semantic point of view 
+provide a totally different meaning. The `<b>` and `<i>` both describe typographic styles, while `<strong>` and `<em>` 
+describe a mode or voice, these tags are about communication, and are always more appropriate. 
+
+The `<img>` also provides some interesting perspective. If an image is part of the content of the page the `<img>` tag is 
+appropriate. Any images that might be part of the design of the page should be applied to the page via CSS. 
+
+#### Markup this example
+
+Here is another example, study the tag list and apply as many tags as you can. [Example 4](example-4.html) 
 
 ### 10 - Make a web page
 
 We will continue to work on and add features to the pages you create. As of today the page will provide little design, 
 you will be adding more as class progresses. Be sure to complete at least one of the following:
 
-- Markup this example
-  - Here is another example, study the tag list and apply as many tags as you can. [Example 4](example-4.html)
 - Make a web page for the app you created at Summer Academy
   - Here is an example of an app I created [Example 3](example-3.html)
 - Make a web page for yourself. 
