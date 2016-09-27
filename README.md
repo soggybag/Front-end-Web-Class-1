@@ -145,4 +145,6 @@ the web to share, you will need a host and a domain name.
 ## Resources 
 - [https://dash.generalassemb.ly/](https://dash.generalassemb.ly/)
 - [https://www.codecademy.com/learn/web](https://www.codecademy.com/learn/web)
+- [https://www.youtube.com/watch?v=x_0rE6ovWCI&list=PLoN_ejT35AEj4HJOkJK7nr4prSN0ZRT3H][https://www.youtube.com/watch?v=x_0rE6ovWCI&list=PLoN_ejT35AEj4HJOkJK7nr4prSN0ZRT3H]
+
 
