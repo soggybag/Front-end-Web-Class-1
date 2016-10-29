@@ -143,6 +143,8 @@ the web to share, you will need a host and a domain name.
   - Read about designing web sites here: http://www.creativebloq.com/web-design/steps-perfect-website-layout-812625
 
 ## Resources 
+
+- [Front End Web Playlist](https://goo.gl/z5fGaR) Watch videos 1-3
 - [https://dash.generalassemb.ly/](https://dash.generalassemb.ly/)
 - [https://www.codecademy.com/learn/web](https://www.codecademy.com/learn/web)
 - [https://www.youtube.com/watch?v=x_0rE6ovWCI&list=PLoN_ejT35AEj4HJOkJK7nr4prSN0ZRT3H](https://www.youtube.com/watch?v=x_0rE6ovWCI&list=PLoN_ejT35AEj4HJOkJK7nr4prSN0ZRT3H)
